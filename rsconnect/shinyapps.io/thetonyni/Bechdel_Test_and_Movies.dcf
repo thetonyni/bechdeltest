@@ -1,0 +1,12 @@
+name: Bechdel_Test_and_Movies
+title: Bechdel_Test_and_Movies
+username:
+account: thetonyni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1273469
+bundleId: 2469528
+url: https://thetonyni.shinyapps.io/Bechdel_Test_and_Movies/
+when: 1570218870.8329
+asMultiple: FALSE
+asStatic: FALSE
